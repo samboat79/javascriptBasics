@@ -1,8 +1,4 @@
 # javascriptBasics
-
-Your JavaScript Level One Project!
-For this project you will be building a generic website that will seem to ask mundane questions to normal users, but you secretly are looking for a spy! Anyone visiting your website will be asked a series of questions, only the Spy will be able to give specific answers you expect. If all questions are answered correctly, you will post a secret message in console for the Spy to read!
-
 Here are the four conditions you will check for the spy:
 
 The Spy has the same first letter of her First Name and Last Name
